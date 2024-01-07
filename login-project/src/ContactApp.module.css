@@ -1,0 +1,73 @@
+/* .whole{
+    display: flex;
+    flex-direction: column ;
+    align-items:center ;
+    justify-content: baseline;
+    margin-top: 5%;
+}
+.contact{
+    color:rgb(3, 0, 199);
+}
+.title{
+    display: flex;
+}
+.bootostart{
+    color:rgb(3, 0, 199);
+    background-color: #83A2FF;
+    border-radius: 4px;
+    margin-right: 4px;
+    padding: 0px 2px;
+}
+
+.card{
+    width: 55vw;
+    height: 28vh;
+    margin: auto;
+    box-shadow: 9px 10px 31px #cccccc;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+}
+.info1{
+    display: flex;
+    margin: auto;
+}
+.info2{
+    display: flex;
+    margin: auto;
+}
+.add{
+    color: white;
+    border: navajowhite;
+    width: 88.5%;
+    height: 17%;
+    margin: auto;
+    border-radius: 8px;
+    background-color: #0707ff;
+}
+.name::placeholder , .phone::placeholder , .lastName::placeholder , .email::placeholder{
+    color: black;
+}
+.name:focus {
+    background-color: white;
+}
+.name , .email{
+    width: 23vw;
+    height: 4.5vh;
+    display: inline-block;
+    color: black;
+    border-radius: 8px;
+    border: 1px solid #918484;
+    margin-right: 15px;
+}
+.lastName , .phone{
+    width: 23vw;
+    height: 4.5vh;
+    display: inline-block;
+    color: black;
+    border-radius: 8px;
+    border: 1px solid #918484;
+    margin-left: 15px;
+
+} */
